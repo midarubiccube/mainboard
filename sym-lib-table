@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "OKL_sym")(type "KiCad")(uri "${KIPRJMOD}/symbol/OKL_sym.kicad_sym")(options "")(descr ""))
+  (lib (name "CAN")(type "KiCad")(uri "${KIPRJMOD}/symbol/CAN.kicad_sym")(options "")(descr ""))
+  (lib (name "regulator")(type "KiCad")(uri "${KIPRJMOD}/symbol/regulator.kicad_sym")(options "")(descr ""))
+  (lib (name "display")(type "KiCad")(uri "${KIPRJMOD}/symbol/display.kicad_sym")(options "")(descr ""))
+  (lib (name "interplan")(type "KiCad")(uri "${KIPRJMOD}/symbol/interplan.kicad_sym")(options "")(descr ""))
+)

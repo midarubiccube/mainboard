@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "pihat_cooling")(type "KiCad")(uri "${KIPRJMOD}/Lib/pihat_cooling.pretty")(options "")(descr ""))
+  (lib (name "screw")(type "KiCad")(uri "${KIPRJMOD}/Lib/screw.pretty")(options "")(descr ""))
+  (lib (name "okL")(type "KiCad")(uri "${KIPRJMOD}/Lib/okL.pretty")(options "")(descr ""))
+  (lib (name "akiRJ45")(type "KiCad")(uri "${KIPRJMOD}/Lib/akiRJ45.pretty")(options "")(descr ""))
+  (lib (name "MSP2807")(type "KiCad")(uri "${KIPRJMOD}/Lib/MSP2807.pretty")(options "")(descr ""))
+  (lib (name "interplan")(type "KiCad")(uri "${KIPRJMOD}/Lib/interplan.pretty")(options "")(descr ""))
+)
