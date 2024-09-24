@@ -178,7 +178,9 @@
         0.05,
         0.1,
         0.2,
-        0.5
+        0.5,
+        1.5,
+        2.0
       ],
       "via_dimensions": [
         {
@@ -768,8 +770,8 @@
       "idf": "",
       "netlist": "../../../../../../Program Files/KiCad/7.0/",
       "specctra_dsn": "../../../デスクトップ/mainboard.dsn",
-      "step": "mainboard.step",
-      "vrml": ""
+      "step": "../../../../mainboard.step",
+      "vrml": "mainboard.wrl"
     },
     "page_layout_descr_file": ""
   },
@@ -823,6 +825,10 @@
     [
       "b8cd5261-8e16-4006-b9ba-7327e74d27c2",
       "canfd"
+    ],
+    [
+      "43e09632-10e9-4cf1-96e0-aa5d1c883402",
+      "I2C"
     ]
   ],
   "text_variables": {}

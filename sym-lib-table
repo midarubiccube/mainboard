@@ -5,4 +5,8 @@
   (lib (name "regulator")(type "KiCad")(uri "${KIPRJMOD}/symbol/regulator.kicad_sym")(options "")(descr ""))
   (lib (name "display")(type "KiCad")(uri "${KIPRJMOD}/symbol/display.kicad_sym")(options "")(descr ""))
   (lib (name "interplan")(type "KiCad")(uri "${KIPRJMOD}/symbol/interplan.kicad_sym")(options "")(descr ""))
+  (lib (name "XT60")(type "KiCad")(uri "${KIPRJMOD}/symbol/XT60PW-M.kicad_sym")(options "")(descr ""))
+  (lib (name "oscillator")(type "KiCad")(uri "${KIPRJMOD}/symbol/oscillator.kicad_sym")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.kicad_sym")(options "")(descr ""))
+  (lib (name "TCA9803DGKR")(type "KiCad")(uri "${KIPRJMOD}/Lib/TCA9803DGKR.kicad_sym")(options "")(descr ""))
 )

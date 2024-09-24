@@ -6,4 +6,6 @@
   (lib (name "akiRJ45")(type "KiCad")(uri "${KIPRJMOD}/Lib/akiRJ45.pretty")(options "")(descr ""))
   (lib (name "MSP2807")(type "KiCad")(uri "${KIPRJMOD}/Lib/MSP2807.pretty")(options "")(descr ""))
   (lib (name "interplan")(type "KiCad")(uri "${KIPRJMOD}/Lib/interplan.pretty")(options "")(descr ""))
+  (lib (name "XT60")(type "KiCad")(uri "${KIPRJMOD}/Lib/XT60.pretty")(options "")(descr ""))
+  (lib (name "oscillator")(type "KiCad")(uri "${KIPRJMOD}/Lib/oscillator.pretty")(options "")(descr ""))
 )

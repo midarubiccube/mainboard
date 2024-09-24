@@ -12,11 +12,6 @@
     (property "Datasheet" "" (at -5.08 6.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "OKL_T6_W12_0_0"
-      (text "OKL_T6_W12" (at 0 8.89 0)
-        (effects (font (size 1.27 1.27)))
-      )
-    )
     (symbol "OKL_T6_W12_0_1"
       (rectangle (start -7.62 5.08) (end 6.35 -6.35)
         (stroke (width 0) (type default))
